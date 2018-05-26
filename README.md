@@ -1,1 +1,1 @@
-# Coin
+# realy simple block chain with typescript
