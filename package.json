@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/jinhokong/TypescriptCoin#readme",
   "dependencies": {
+    "crypto-js": "^3.1.9-1",
     "typescript": "^2.8.3"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^3.1.39"
   }
 }
